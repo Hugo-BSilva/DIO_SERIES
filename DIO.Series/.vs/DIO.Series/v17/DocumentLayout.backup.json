@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Drag\u00E3o\\Documents\\GitHub\\DIO_SERIES\\DIO.Series\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EB6D3F6C-A285-9489-3A59-0204FC8FEEAC}|DIO.Series.csproj|c:\\users\\drag\u00E3o\\documents\\github\\dio_series\\dio.series\\consoleui\\serieconsoleapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB6D3F6C-A285-9489-3A59-0204FC8FEEAC}|DIO.Series.csproj|solutionrelative:consoleui\\serieconsoleapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB6D3F6C-A285-9489-3A59-0204FC8FEEAC}|DIO.Series.csproj|c:\\users\\drag\u00E3o\\documents\\github\\dio_series\\dio.series\\application\\services\\serieappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB6D3F6C-A285-9489-3A59-0204FC8FEEAC}|DIO.Series.csproj|solutionrelative:application\\services\\serieappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB6D3F6C-A285-9489-3A59-0204FC8FEEAC}|DIO.Series.csproj|c:\\users\\drag\u00E3o\\documents\\github\\dio_series\\dio.series\\infrastructure\\repository\\serierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB6D3F6C-A285-9489-3A59-0204FC8FEEAC}|DIO.Series.csproj|solutionrelative:infrastructure\\repository\\serierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB6D3F6C-A285-9489-3A59-0204FC8FEEAC}|DIO.Series.csproj|c:\\users\\drag\u00E3o\\documents\\github\\dio_series\\dio.series\\domain\\enum\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB6D3F6C-A285-9489-3A59-0204FC8FEEAC}|DIO.Series.csproj|solutionrelative:domain\\enum\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB6D3F6C-A285-9489-3A59-0204FC8FEEAC}|DIO.Series.csproj|c:\\users\\drag\u00E3o\\documents\\github\\dio_series\\dio.series\\consoleui\\consolewrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB6D3F6C-A285-9489-3A59-0204FC8FEEAC}|DIO.Series.csproj|solutionrelative:consoleui\\consolewrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB6D3F6C-A285-9489-3A59-0204FC8FEEAC}|DIO.Series.csproj|c:\\users\\drag\u00E3o\\documents\\github\\dio_series\\dio.series\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB6D3F6C-A285-9489-3A59-0204FC8FEEAC}|DIO.Series.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB6D3F6C-A285-9489-3A59-0204FC8FEEAC}|DIO.Series.csproj|c:\\users\\drag\u00E3o\\documents\\github\\dio_series\\dio.series\\interfaces\\iserieconsole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB6D3F6C-A285-9489-3A59-0204FC8FEEAC}|DIO.Series.csproj|solutionrelative:interfaces\\iserieconsole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB6D3F6C-A285-9489-3A59-0204FC8FEEAC}|DIO.Series.csproj|c:\\users\\drag\u00E3o\\documents\\github\\dio_series\\dio.series\\interfaces\\iserierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB6D3F6C-A285-9489-3A59-0204FC8FEEAC}|DIO.Series.csproj|solutionrelative:interfaces\\iserierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB6D3F6C-A285-9489-3A59-0204FC8FEEAC}|DIO.Series.csproj|c:\\users\\drag\u00E3o\\documents\\github\\dio_series\\dio.series\\interfaces\\iconsole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB6D3F6C-A285-9489-3A59-0204FC8FEEAC}|DIO.Series.csproj|solutionrelative:interfaces\\iconsole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB6D3F6C-A285-9489-3A59-0204FC8FEEAC}|DIO.Series.csproj|c:\\users\\drag\u00E3o\\documents\\github\\dio_series\\dio.series\\domain\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB6D3F6C-A285-9489-3A59-0204FC8FEEAC}|DIO.Series.csproj|solutionrelative:domain\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SerieAppService.cs",
+              "DocumentMoniker": "C:\\Users\\Drag\u00E3o\\Documents\\GitHub\\DIO_SERIES\\DIO.Series\\Application\\Services\\SerieAppService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\SerieAppService.cs",
+              "ToolTip": "C:\\Users\\Drag\u00E3o\\Documents\\GitHub\\DIO_SERIES\\DIO.Series\\Application\\Services\\SerieAppService.cs",
+              "RelativeToolTip": "Application\\Services\\SerieAppService.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wCMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T19:56:41.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SerieConsoleApp.cs",
+              "DocumentMoniker": "C:\\Users\\Drag\u00E3o\\Documents\\GitHub\\DIO_SERIES\\DIO.Series\\ConsoleUI\\SerieConsoleApp.cs",
+              "RelativeDocumentMoniker": "ConsoleUI\\SerieConsoleApp.cs",
+              "ToolTip": "C:\\Users\\Drag\u00E3o\\Documents\\GitHub\\DIO_SERIES\\DIO.Series\\ConsoleUI\\SerieConsoleApp.cs",
+              "RelativeToolTip": "ConsoleUI\\SerieConsoleApp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T18:34:56.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ISerieRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Drag\u00E3o\\Documents\\GitHub\\DIO_SERIES\\DIO.Series\\Interfaces\\ISerieRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\ISerieRepository.cs",
+              "ToolTip": "C:\\Users\\Drag\u00E3o\\Documents\\GitHub\\DIO_SERIES\\DIO.Series\\Interfaces\\ISerieRepository.cs",
+              "RelativeToolTip": "Interfaces\\ISerieRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T18:48:16.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ISerieConsole.cs",
+              "DocumentMoniker": "C:\\Users\\Drag\u00E3o\\Documents\\GitHub\\DIO_SERIES\\DIO.Series\\Interfaces\\ISerieConsole.cs",
+              "RelativeDocumentMoniker": "Interfaces\\ISerieConsole.cs",
+              "ToolTip": "C:\\Users\\Drag\u00E3o\\Documents\\GitHub\\DIO_SERIES\\DIO.Series\\Interfaces\\ISerieConsole.cs",
+              "RelativeToolTip": "Interfaces\\ISerieConsole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T19:10:29.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IConsole.cs",
+              "DocumentMoniker": "C:\\Users\\Drag\u00E3o\\Documents\\GitHub\\DIO_SERIES\\DIO.Series\\Interfaces\\IConsole.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IConsole.cs",
+              "ToolTip": "C:\\Users\\Drag\u00E3o\\Documents\\GitHub\\DIO_SERIES\\DIO.Series\\Interfaces\\IConsole.cs",
+              "RelativeToolTip": "Interfaces\\IConsole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T18:36:17.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SerieRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Drag\u00E3o\\Documents\\GitHub\\DIO_SERIES\\DIO.Series\\Infrastructure\\Repository\\SerieRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repository\\SerieRepository.cs",
+              "ToolTip": "C:\\Users\\Drag\u00E3o\\Documents\\GitHub\\DIO_SERIES\\DIO.Series\\Infrastructure\\Repository\\SerieRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repository\\SerieRepository.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAuwCUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T18:48:20.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Genre.cs",
+              "DocumentMoniker": "C:\\Users\\Drag\u00E3o\\Documents\\GitHub\\DIO_SERIES\\DIO.Series\\Domain\\Enum\\Genre.cs",
+              "RelativeDocumentMoniker": "Domain\\Enum\\Genre.cs",
+              "ToolTip": "C:\\Users\\Drag\u00E3o\\Documents\\GitHub\\DIO_SERIES\\DIO.Series\\Domain\\Enum\\Genre.cs",
+              "RelativeToolTip": "Domain\\Enum\\Genre.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T18:23:24.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ConsoleWrapper.cs",
+              "DocumentMoniker": "C:\\Users\\Drag\u00E3o\\Documents\\GitHub\\DIO_SERIES\\DIO.Series\\ConsoleUI\\ConsoleWrapper.cs",
+              "RelativeDocumentMoniker": "ConsoleUI\\ConsoleWrapper.cs",
+              "ToolTip": "C:\\Users\\Drag\u00E3o\\Documents\\GitHub\\DIO_SERIES\\DIO.Series\\ConsoleUI\\ConsoleWrapper.cs",
+              "RelativeToolTip": "ConsoleUI\\ConsoleWrapper.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAUwAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T18:35:08.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Drag\u00E3o\\Documents\\GitHub\\DIO_SERIES\\DIO.Series\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Drag\u00E3o\\Documents\\GitHub\\DIO_SERIES\\DIO.Series\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T19:30:36.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Drag\u00E3o\\Documents\\GitHub\\DIO_SERIES\\DIO.Series\\Domain\\Entities\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\Drag\u00E3o\\Documents\\GitHub\\DIO_SERIES\\DIO.Series\\Domain\\Entities\\BaseEntity.cs",
+              "RelativeToolTip": "Domain\\Entities\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T18:22:46.507Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

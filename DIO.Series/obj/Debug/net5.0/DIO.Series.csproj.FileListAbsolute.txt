@@ -14,3 +14,20 @@ C:\Users\hugob\Documents\Bootcamp ASPNET\APP_CadastroSeries\DIO.Series\obj\Debug
 C:\Users\hugob\Documents\Bootcamp ASPNET\APP_CadastroSeries\DIO.Series\obj\Debug\net5.0\ref\DIO.Series.dll
 C:\Users\hugob\Documents\Bootcamp ASPNET\APP_CadastroSeries\DIO.Series\obj\Debug\net5.0\DIO.Series.pdb
 C:\Users\hugob\Documents\Bootcamp ASPNET\APP_CadastroSeries\DIO.Series\obj\Debug\net5.0\DIO.Series.genruntimeconfig.cache
+C:\Users\Dragão\Documents\GitHub\DIO_SERIES\DIO.Series\bin\Debug\net5.0\DIO.Series.exe
+C:\Users\Dragão\Documents\GitHub\DIO_SERIES\DIO.Series\bin\Debug\net5.0\DIO.Series.deps.json
+C:\Users\Dragão\Documents\GitHub\DIO_SERIES\DIO.Series\bin\Debug\net5.0\DIO.Series.runtimeconfig.json
+C:\Users\Dragão\Documents\GitHub\DIO_SERIES\DIO.Series\bin\Debug\net5.0\DIO.Series.runtimeconfig.dev.json
+C:\Users\Dragão\Documents\GitHub\DIO_SERIES\DIO.Series\bin\Debug\net5.0\DIO.Series.dll
+C:\Users\Dragão\Documents\GitHub\DIO_SERIES\DIO.Series\bin\Debug\net5.0\DIO.Series.pdb
+C:\Users\Dragão\Documents\GitHub\DIO_SERIES\DIO.Series\obj\Debug\net5.0\DIO.Series.csproj.AssemblyReference.cache
+C:\Users\Dragão\Documents\GitHub\DIO_SERIES\DIO.Series\obj\Debug\net5.0\DIO.Series.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragão\Documents\GitHub\DIO_SERIES\DIO.Series\obj\Debug\net5.0\DIO.Series.AssemblyInfoInputs.cache
+C:\Users\Dragão\Documents\GitHub\DIO_SERIES\DIO.Series\obj\Debug\net5.0\DIO.Series.AssemblyInfo.cs
+C:\Users\Dragão\Documents\GitHub\DIO_SERIES\DIO.Series\obj\Debug\net5.0\DIO.Series.csproj.CoreCompileInputs.cache
+C:\Users\Dragão\Documents\GitHub\DIO_SERIES\DIO.Series\obj\Debug\net5.0\DIO.Series.sourcelink.json
+C:\Users\Dragão\Documents\GitHub\DIO_SERIES\DIO.Series\obj\Debug\net5.0\DIO.Series.dll
+C:\Users\Dragão\Documents\GitHub\DIO_SERIES\DIO.Series\obj\Debug\net5.0\refint\DIO.Series.dll
+C:\Users\Dragão\Documents\GitHub\DIO_SERIES\DIO.Series\obj\Debug\net5.0\DIO.Series.pdb
+C:\Users\Dragão\Documents\GitHub\DIO_SERIES\DIO.Series\obj\Debug\net5.0\DIO.Series.genruntimeconfig.cache
+C:\Users\Dragão\Documents\GitHub\DIO_SERIES\DIO.Series\obj\Debug\net5.0\ref\DIO.Series.dll

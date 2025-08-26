@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Drag\u00E3o\\Documents\\GitHub\\DIO_SERIES\\DIO.Series.Tests\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D1D85574-5F35-DF9B-685A-8C26572DBDD2}|DIO.Series.Tests.csproj|c:\\users\\drag\u00E3o\\documents\\github\\dio_series\\dio.series.tests\\seriemanagertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1D85574-5F35-DF9B-685A-8C26572DBDD2}|DIO.Series.Tests.csproj|solutionrelative:seriemanagertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FF9359F-3AA8-9F4E-6019-645D20FA30C0}|..\\DIO.Series\\DIO.Series.csproj|c:\\users\\drag\u00E3o\\documents\\github\\dio_series\\dio.series\\services\\seriemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FF9359F-3AA8-9F4E-6019-645D20FA30C0}|..\\DIO.Series\\DIO.Series.csproj|c:\\users\\drag\u00E3o\\documents\\github\\dio_series\\dio.series\\repository\\serierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SerieManager.cs",
+              "DocumentMoniker": "C:\\Users\\Drag\u00E3o\\Documents\\GitHub\\DIO_SERIES\\DIO.Series\\Services\\SerieManager.cs",
+              "RelativeDocumentMoniker": "..\\DIO.Series\\Services\\SerieManager.cs",
+              "ToolTip": "C:\\Users\\Drag\u00E3o\\Documents\\GitHub\\DIO_SERIES\\DIO.Series\\Services\\SerieManager.cs",
+              "RelativeToolTip": "..\\DIO.Series\\Services\\SerieManager.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T18:11:47.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SerieManagerTests.cs",
+              "DocumentMoniker": "C:\\Users\\Drag\u00E3o\\Documents\\GitHub\\DIO_SERIES\\DIO.Series.Tests\\SerieManagerTests.cs",
+              "RelativeDocumentMoniker": "SerieManagerTests.cs",
+              "ToolTip": "C:\\Users\\Drag\u00E3o\\Documents\\GitHub\\DIO_SERIES\\DIO.Series.Tests\\SerieManagerTests.cs",
+              "RelativeToolTip": "SerieManagerTests.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T18:10:01.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SerieRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Drag\u00E3o\\Documents\\GitHub\\DIO_SERIES\\DIO.Series\\Repository\\SerieRepository.cs",
+              "RelativeDocumentMoniker": "..\\DIO.Series\\Repository\\SerieRepository.cs",
+              "ToolTip": "C:\\Users\\Drag\u00E3o\\Documents\\GitHub\\DIO_SERIES\\DIO.Series\\Repository\\SerieRepository.cs",
+              "RelativeToolTip": "..\\DIO.Series\\Repository\\SerieRepository.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T18:11:13.091Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
