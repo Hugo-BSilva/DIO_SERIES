@@ -1,5 +1,4 @@
-﻿using DIO.Series.Application.Services;
-using DIO.Series.Interfaces;
+﻿using DIO.Series.Interfaces;
 
 namespace DIO.Series.ConsoleUI;
 
